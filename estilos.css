@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+/*
+#container_sub {
+	background: aqua;
+}
+*/
+#cal_sub {
+	border: 2px solid black;
+	width: 30%;
+	margin: 5px auto;
+	text-align: center;
+	padding: 20px;
+}
+
+#titulo {
+	font: 35px Tahoma;
+	font-weight: 700;
+	color: red;
+}
+
+.textos {
+	font: 28px Tahoma;
+}
+
+.datos {
+	font: 28px Tahoma;
+	text-align: center;
+	padding: 10px;
+}
+
+.boton {
+	padding: 8px;
+	font: 20px Tahoma;
+	background: aqua;
+}
+
+
+
+
+
